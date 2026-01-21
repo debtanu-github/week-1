@@ -135,6 +135,11 @@ footer {
   color: #00001187;
 }
 
+.privacy{
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
 a {
   color: inherit;
   text-decoration-color: rgb(214, 214, 218);

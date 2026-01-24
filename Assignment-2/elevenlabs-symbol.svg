@@ -1,0 +1,10 @@
+<svg width="876" height="876" viewBox="0 0 876 876" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <!-- 1. Background (keeping the nice rounded corners) -->
+    <rect width="876" height="876" rx="180" ry="180" fill="white"/> 
+    
+    <!-- 2. Left Bar (Height: 400, Width: 80) -->
+    <rect x="318" y="238" width="80" height="400" fill="black"/> 
+    
+    <!-- 3. Right Bar (Height: 400, Width: 80) -->
+    <rect x="478" y="238" width="80" height="400" fill="black"/> 
+</svg>
